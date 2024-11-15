@@ -1,4 +1,4 @@
-# Retail Pulse Backend Assignment
+# Retail Pulse Backend Assignment (Kirana Club)
 
 This project implements a backend service for handling and processing image-related job submissions for retail store visits. The service receives job submissions, validates the data, and processes images asynchronously. It provides endpoints for submitting jobs and checking the status of each job.
 
