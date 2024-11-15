@@ -22,7 +22,6 @@ This project implements a backend service for handling and processing image-rela
 - [Error Handling](#error-handling)
 - [Assumptions](#assumptions)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ---
 
