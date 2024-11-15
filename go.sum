@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.0 h1:NZsKLpjl/tWigH22Wu3O41xrI3vCfkv0Ecj3JYXWZ08=
+github.com/gorilla/mux v1.8.0/go.mod h1:xUGhCr2PjE6pJxHE8FiRNrKHXwwLtZ5lF2CQu3k0ocy=
+github.com/stretchr/testify v1.8.1 h1:wT8BdqP6t+9O3cm3FHZmBPB4ci0xnY6SMKSqfFiA5sw=
+github.com/stretchr/testify v1.8.1/go.mod h1:n0c8WKRdAEhPMW8AqXSojQ5yjcT4lF50A14pq9AGUp0=
